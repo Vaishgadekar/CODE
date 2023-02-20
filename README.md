@@ -10,3 +10,6 @@ Just like architecture, which is an art used by people daily and affects their e
 
 When I manage to build something that saves people time and prevents them from doing tedious tasks, I know that I am making a difference in that person’s life. 
 
+# Coders Ready Code-a-thon-
+This code-a-thon was conducted by Coders ready, had about 13 different levels and sub-levels with around 150 problems. I tried to solve most problems with Python Programming language.
+
